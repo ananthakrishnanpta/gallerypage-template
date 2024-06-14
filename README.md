@@ -1,6 +1,6 @@
 # gallerypage-template
 
-Sure, I can help you create a responsive image gallery using HTML and CSS with Flexbox. Here’s a basic example of how you can achieve this:
+- Creating a responsive image gallery using HTML and CSS with Flexbox : 
 
 ### Explanation
 1. **HTML Structure**:
